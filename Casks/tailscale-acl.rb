@@ -1,8 +1,8 @@
 cask "tailscale-acl" do
-  version "1.0.0"
-  sha256 "d93d9cd1d882743744bb3cf5e5e0a819fb1e35f1817067f526cc179dfd2f7e57"
+  version "1.0.1"
+  sha256 "9a686478aa0bae8af0ac1a6f4fd61b0b9f3073f90598382721b0bfd28ebcb04a"
 
-  url "https://github.com/steingmo/tailscale-acl-manager/releases/download/v#{version}/TailscaleACL-#{version.major_minor}.zip"
+  url "https://github.com/steingmo/tailscale-acl-manager/releases/download/v#{version}/TailscaleACL-#{version}.zip"
   name "Tailscale ACL"
   desc "Edit, visualize, simulate, and test Tailscale ACL policies offline"
   homepage "https://github.com/steingmo/tailscale-acl-manager"
