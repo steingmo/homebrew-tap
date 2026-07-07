@@ -1,6 +1,6 @@
 cask "keytype" do
-  version "1.1.0"
-  sha256 "2083a02858a172677c372753c07b484f10b1e53436bd956fdc39cce43728678a"
+  version "1.2.0"
+  sha256 "c5e3c38ba6cc014982f7cacb2e7feb909f66efd9e284943493c962f9647807be"
 
   url "https://github.com/steingmo/keytype/releases/download/v#{version}/KeyType.zip"
   name "KeyType"
