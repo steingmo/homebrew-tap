@@ -1,6 +1,6 @@
 cask "kvf-player" do
-  version "1.1.4"
-  sha256 "b8e5d31a3a6bb470445d171aa615507a2f02717eff576560a52ecce389d08df7"
+  version "1.2.0"
+  sha256 "ddfffb785b36d747490ca49d70c8158bd30e575278450c088a46d41d774ebfd2"
 
   url "https://github.com/steingmo/kvf-player/releases/download/v#{version}/KVF.zip"
   name "KVF"
