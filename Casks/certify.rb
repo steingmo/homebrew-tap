@@ -1,6 +1,6 @@
 cask "certify" do
-  version "1.1.0"
-  sha256 "1dd60f13c60451fd1d5002f9f7017c515c0678aa9dd505e995822c56d0c7850e"
+  version "1.2.0"
+  sha256 "d563dfa9bd48e73efc4e06e0a183e4e0b9cc80a1c0ab465a08eced7d0229f752"
 
   url "https://github.com/steingmo/certify/releases/download/v#{version}/Certify.zip"
   name "Certify"
