@@ -1,6 +1,6 @@
 cask "tailscale-acl" do
-  version "1.24.1"
-  sha256 "6aac22781a268181712e1aa0a61597c778d57bcd6672c6ffd3403dc6066fa3a2"
+  version "1.24.2"
+  sha256 "a22d179816c6a82fb4202546983f8d6c2d3f6914922e281c3b129372832eea56"
 
   url "https://github.com/steingmo/tailscale-acl-manager/releases/download/v#{version}/TailscaleACL-#{version}.zip"
   name "Tailscale ACL"
