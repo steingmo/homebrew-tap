@@ -1,6 +1,6 @@
 cask "onedrive-watchdog" do
-  version "1.0.0"
-  sha256 "9ac540eaee354d0b94c5d6c27f24497b1ac702369c213b6e7c8b710c6cd8c591"
+  version "1.0.1"
+  sha256 "6b8c9975d5d5d9a2934c7e1a51560ce1f8936b1347f301417f9770c02711d6da"
 
   url "https://github.com/steingmo/onedrive-watchdog/releases/download/v#{version}/OneDrive-Watchdog-#{version}.zip"
   name "OneDrive Watchdog"
