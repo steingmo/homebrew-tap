@@ -1,6 +1,6 @@
 cask "xstream-player" do
-  version "2.4.5"
-  sha256 "b27eb93df83c1563f0e05ea8a0df37f1dfb4754938bc025937f84957ec07bf5b"
+  version "2.4.6"
+  sha256 "e31efa7f59dbff7b3aee102803f9e8eaf695877e125c3403df4800d4ab339aab"
 
   url "https://github.com/steingmo/xstream-player/releases/download/v#{version}/Xstream.zip"
   name "Xstream"
